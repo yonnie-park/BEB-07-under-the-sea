@@ -16,7 +16,7 @@
  </tr>   
  
  <tr>
-  <td align='center'>박정연</td>
+  <td align='center'>[팀장] 박정연</td>
   <td align='center'>Design, Front-end</td>
   <td align='center'><a href="https://github.com/yonnie-park">yonnie-park</a></td>
   <td align='center'>juon0805@gmail.com</td>
